@@ -11,6 +11,6 @@
 <li><a href="https://github.com/allure-framework/allure2/pull/1897" target="blank">Allure Framework</a></li>
 </ul>
 <p align="center">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sevdimali-isayev/">Linkedin</a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sevdimali-isayev/">Linkedin</a><br/>
         <a style="margin-left: 10px;" target="_blank" href="https://sevdimali.medium.com">Medium Blog</a>
 </p>
